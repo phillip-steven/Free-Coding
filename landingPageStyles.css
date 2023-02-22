@@ -21,7 +21,7 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  padding: 20px 100px;
+  padding: 8px 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -53,7 +53,7 @@ header ul li a {
 main {
   position: relative;
   margin-top: 24px;
-  margin-top: 24px;
+  margin-bottom: 24px;
   width: 100%;
   display: flex;
   justify-content: space-between;
