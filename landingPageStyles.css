@@ -28,6 +28,7 @@ body {
   background-color: #628e90;
   color: black;
   z-index: 10000;
+  border-bottom: 5px solid #f5efe6;
 }
 a .logo {
   position: relative;
@@ -76,11 +77,12 @@ main a {
   height: 100%;
 }
 
-main .textbox h1 {
+.textbox h1 {
   font-size: 4em;
 }
 
 main .textbox h3 {
+  margin-top: 16px;
   font-weight: lighter;
 }
 
